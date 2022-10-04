@@ -1,3 +1,3 @@
 ﻿
-using var game = new MonoGame_Advanced.Game1();
+using var game = new Assignment1.Game1();
 game.Run();
